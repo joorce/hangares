@@ -33,10 +33,8 @@ public class Hangares {
 		}
 
 		System.out.println(checkHangares(hangares));
-
 	    }
 	}
-	
     }
 
     public static void sortHangares(int[] hangares) {
